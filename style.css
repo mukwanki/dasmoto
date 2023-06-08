@@ -1,0 +1,34 @@
+header{
+    background-image: url("./pattern.webp");
+}
+.title{
+    font-size: 100px;
+    font-weight: bold;
+    font-family: helvetica;
+    text-align: center;
+    color: khaki;
+}
+.brushes{
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.frames{
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.Paint{
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h1, h2, h3, p{
+    font-family: Helvetica;
+}
+a{
+    color: blue;
+}
